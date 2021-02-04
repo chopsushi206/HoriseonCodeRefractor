@@ -4,7 +4,7 @@
 
 ## Objectives
 
-The project was to to take an existing repositorty refractor the code, as well as use semantic HTML tags while considering accessibility. 
+The project was to to take an existing repository refractor the code, as well as use semantic HTML tags while considering accessibility. 
 
 
 
