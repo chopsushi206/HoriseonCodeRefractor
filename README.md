@@ -25,6 +25,28 @@ Consolidated some of the CSS and reordered it to follow a more logical and seman
 
 Added Comments to CSS file.
 
+Created repository and README for App.
+
+---
+
+## [Link to Deployed App](https://chopsushi206.github.io/HoriseonCodeRefractor/)
+
 Below are examples of parts of the index.html file before and after refractor:
 
-![Before](*/assets/images/indexBefore.png)
+![index Before](readmeimages/indexBefore.png)
+![index After](readmeimages/indexAfter.png)
+
+As well as before and after of CSS file.
+
+![css Before](readmeimages/cssBefore.png)
+![css After](readmeimages/cssAfter.png)
+
+---
+
+## Developer
+
+<img src="readmeimages/developer.png" width="100">
+
+ Coding and repository done by [Li Hua Anderson](https://github.com/chopsushi206).
+
+[Email](mailto:lihua.anderson@gmail.com) | [LinkedIn](https://linkedin.com/in/li-hua-anderson-b259b7144)
