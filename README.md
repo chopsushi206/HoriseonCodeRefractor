@@ -31,16 +31,13 @@ Created repository and README for App.
 
 ## [Link to Deployed App](https://chopsushi206.github.io/HoriseonCodeRefractor/)
 
-Below are examples of parts of the index.html file before and after refractor:
+Below are screenshots of the App.
 
-![index Before](readmeimages/indexBefore.png)
-![index After](readmeimages/indexAfter.png)
+![Screenshot Top](readmeimages/screenshot1.png)
 
-As well as before and after of CSS file.
+![Screenshot Top](readmeimages/screenshot2.png)
 
-![css Before](readmeimages/cssBefore.png)
-![css After](readmeimages/cssAfter.png)
-
+![Screenshot Top](readmeimages/screenshot3.png)
 ---
 
 ## Developer
